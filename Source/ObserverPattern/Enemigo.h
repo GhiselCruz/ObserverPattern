@@ -12,6 +12,8 @@ class OBSERVERPATTERN_API AEnemigo : public AActor, public IIAccionEnemiga, publ
 	GENERATED_BODY()
 	
 
+
+
 public:	
 	// Sets default values for this actor's properties
 	AEnemigo();
