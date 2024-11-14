@@ -1,0 +1,17 @@
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\Definitions.ObserverPattern.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Source\ObserverPattern\Enemigo.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Source\ObserverPattern\ISuscriptor.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Inc\ObserverPattern\ISuscriptor.generated.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Source\ObserverPattern\IAccionEnemiga.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Inc\ObserverPattern\IAccionEnemiga.generated.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Inc\ObserverPattern\Enemigo.generated.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Source\ObserverPattern\VidasEnemigoObserver.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Source\ObserverPattern\Publicador.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Inc\ObserverPattern\Publicador.generated.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Inc\ObserverPattern\VidasEnemigoObserver.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/SphereComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SphereComponent.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h

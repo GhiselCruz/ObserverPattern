@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ObserverPattern-1676.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\ObserverPatternEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\Enemigo.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\IAccionEnemiga.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\ISuscriptor.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\ObserverPattern.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\ObserverPatternCharacter.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\ObserverPatternGameMode.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\Publicador.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\VidasEnemigoObserver.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\Enemigo.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\IAccionEnemiga.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\ISuscriptor.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\ObserverPattern.init.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\ObserverPatternCharacter.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\ObserverPatternGameMode.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\Publicador.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\VidasEnemigoObserver.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\Default.rc2.res"
+/OUT:"C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\UE4Editor-ObserverPattern-1676.lib"

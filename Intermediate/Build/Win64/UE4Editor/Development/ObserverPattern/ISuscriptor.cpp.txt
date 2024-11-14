@@ -1,0 +1,3 @@
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Development\ObserverPattern\Definitions.ObserverPattern.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Source\ObserverPattern\ISuscriptor.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\ObserverPattern\Intermediate\Build\Win64\UE4Editor\Inc\ObserverPattern\ISuscriptor.generated.h
