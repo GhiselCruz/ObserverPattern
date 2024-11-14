@@ -276,6 +276,9 @@
     <None Include="..\..\ObserverPattern.uproject"/>
     <None Include="..\..\Source\ObserverPattern.Target.cs"/>
     <None Include="..\..\Source\ObserverPatternEditor.Target.cs"/>
+    <None Include="..\..\.gitattributes"/>
+    <None Include="..\..\.gitignore"/>
+    <None Include="..\..\README.md"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>

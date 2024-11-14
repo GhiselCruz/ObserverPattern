@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\ObserverPattern.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{1F3131A8-E118-4E1D-BD1A-BA31696C3AD5}</UniqueIdentifier>
+      <UniqueIdentifier>{AAEB2AC9-8244-4BE5-8E80-348531A7F07C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\ObserverPattern.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,11 @@
     <None Include="..\..\Source\ObserverPatternEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{35E4EF9D-6E7E-403E-9418-47052D891C65}</UniqueIdentifier>
+      <UniqueIdentifier>{16ACC20A-5D9B-4993-A6B1-3929B2F69EBF}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +33,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\ObserverPattern">
-      <UniqueIdentifier>{13A5D905-26EE-4EE9-BDD5-59C00CCBDD27}</UniqueIdentifier>
+      <UniqueIdentifier>{B1137F99-FC98-4280-B2D3-0E00108EA613}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\ObserverPattern\Enemigo.cpp">
       <Filter>Source\ObserverPattern</Filter>
