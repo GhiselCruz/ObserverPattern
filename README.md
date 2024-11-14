@@ -1,2 +1,3 @@
 # ObserverPattern
 # ObserverPattern
+# AdapterPattern
